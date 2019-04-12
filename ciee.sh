@@ -42,6 +42,7 @@ figlet "BUCIN" | lolcat
 mv gokil.txt $HOME
 cd $HOME
 termux-setup-storage
+cd katagombal
 mv gokil.txt /sdcard
 echo $blue "file di memori cari gokil.txt"
 echo $green"hhahhh dasar bucin lu"
@@ -54,6 +55,7 @@ toilet -f slant --gay "Bucin lu"
 mv inggris.txt $HOME
 cd $HOME
 termux-setup-storage
+cd katagombal
 mv ing.txt /sdcard
 echo $blue "file dimemori cari ing.txt"
 echo $green "fighting ya.."
@@ -66,6 +68,7 @@ toilet -f slant --gay "CIEE"
 mv maut.txt $HOME
 cd $HOME
 termux-setup-storage
+cd katagombal
 mv maut.txt /sdcard
 echo $blue "file ada dimemori cari maut.txt"
 echo $yellow "thanks"
@@ -77,6 +80,7 @@ toilet -f standard --F "baper"
 mv senyum.txt $HOME
 cd $HOME
 termux-setup-storage
+cd katagombal
 mv senyum.txt /sdcard
 echo $blue "file ada dimemori cari senyum.txt"
 fi
@@ -88,6 +92,7 @@ toilet -f slant --gay  "gombal"
 mv roman.txt $HOME
 cd $HOME
 termux-setup-storage
+cd katagombal
 mv roman.txt /sdcard
 echo $blue "file dimemori cafi roman.txt"
 fi
